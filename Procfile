@@ -1,0 +1,1 @@
+web: java -jar target/portofolio-server-1.0.0.war
